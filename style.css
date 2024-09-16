@@ -1,0 +1,41 @@
+.btn{
+    color: black;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.btn:hover {
+    color: skyblue;
+}
+
+.signupbtn{
+    color: white;
+    background-color: rgb(73, 73, 235);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+.signupbtn:hover {
+    background-color: black;
+}
+
+.second{
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbtn{
+    display: flex;
+}
+
+#mainlogo{
+    padding:  7px 10px ;
+}
